@@ -1,4 +1,7 @@
 # HEMP PRODUCER Top Level Domain!
 
+[![image](https://user-images.githubusercontent.com/37987346/101999396-a37e4380-3caa-11eb-8cc6-e61fb53c7855.png)](http://shapereality.innerinetcompany.hns.to/)
+
 This domain is set as a temporary redirect to [HempInc.com](https://www.hempinc.com/investors/).
-If interested in this domain or more [1timefeedomains](http://home.1timefeedomains/), see [Web Security Specialist](http://admin.websecurityspecialist/).
+
+- more by [HNS-DOMAINS/](http://home.hns-domains.hns.to/)
